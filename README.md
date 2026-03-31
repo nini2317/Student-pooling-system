@@ -240,6 +240,10 @@ To contribute to this project:
 4. Test thoroughly
 5. Submit a pull request
 
+   ## 🎥 Demo
+
+[Watch the demo video](https://youtu.be/FdJ3hTw9J_4)
+
 ## License
 
 This project is open source and available under the MIT License.
